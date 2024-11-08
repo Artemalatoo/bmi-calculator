@@ -17,7 +17,6 @@ public class HelloController {
 
     @FXML
     private Label bmiStatusLabel;
-    // Method triggered when the user presses the 'Calculate BMI' button
     @FXML
     protected void onCalculateBMI() {
         try {
